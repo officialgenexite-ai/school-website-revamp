@@ -54,10 +54,10 @@ export function CampusGallery() {
         return (
           <div
             key={img.src}
-            className={`absolute inset-0 transition-all duration-1000 ease-in-out ${
+            className={`absolute inset-0 transition-opacity duration-1000 ease-in-out ${
               isActive
-                ? "opacity-100 scale-100 pointer-events-auto"
-                : "opacity-0 scale-105 pointer-events-none"
+                ? "opacity-100 pointer-events-auto"
+                : "opacity-0 pointer-events-none"
             }`}
           >
             <img

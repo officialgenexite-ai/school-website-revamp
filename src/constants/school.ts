@@ -2,8 +2,8 @@ export const SCHOOL = {
   name: "Government Elementary School Tibba Pir Tannun",
   nameUr: "گورنمنٹ ایلیمنٹری سکول ٹبہ پیر تنوں",
   tagline: "معیاری تعلیم — بہترین تربیت — روشن مستقبل",
-  phone: "0300-1199871",
-  phoneIntl: "923001199871",
+  phone: "03007489871",
+  phoneIntl: "923007489871",
   email: "alimkashan3@gmail.com",
   location: "Tibba Pir Tannun, Punjab, Pakistan",
 };

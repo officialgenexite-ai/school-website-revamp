@@ -113,11 +113,11 @@ function Index() {
         <h2 className="section-title text-center">Administration &amp; Faculty</h2>
         <div className="mt-12 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
           <div className="card-surface border-2 border-gold/70 p-6 sm:col-span-2 lg:col-span-4 flex flex-col sm:flex-row items-center gap-6 bg-gradient-to-br from-card via-card to-gold/10">
-            <div className="relative h-28 w-28 shrink-0 overflow-hidden rounded-full border-4 border-gold shadow-md">
+            <div className="relative h-28 w-28 shrink-0 overflow-hidden rounded-full border-4 border-gold shadow-md ring-2 ring-gold/30">
               <img
                 src="/headmaster_amjad_ali.jpg"
                 alt={PRINCIPAL.name}
-                className="h-full w-full object-cover object-top"
+                className="h-full w-full object-cover object-[center_35%]"
               />
             </div>
             <div className="text-center sm:text-left">
